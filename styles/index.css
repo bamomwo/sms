@@ -1,0 +1,13 @@
+*{
+	padding:0px;margin:0px;
+}
+
+html{
+		background-image:url('../pictures/indexbackground.jpg');
+		-webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+}
+
+
